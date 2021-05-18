@@ -1,0 +1,24 @@
+{
+    "name": "Reto 5",
+    "author": "alexrp202",
+    "license": "MIT",
+    "repository": "https://github.com/alexrp202/Reto5",
+    "version": "0.0.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "info": {
+        "githubURL": "alexrp202/Reto5",
+        "serverUrl": "https://autocorector.dit.upm.es/",
+        "courseId": "2",
+        "assignmentId": "11"
+    },
+    "dependencies": {
+        "sequelize": "^4.32.7",
+        "sqlite3": "^4.0.4",
+        "express": "^4.0.0",
+        "method-override": "^3.0.0",
+        "fs-extra": "^6.0.1"
+    }
+}
